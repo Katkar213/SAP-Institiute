@@ -97,9 +97,9 @@ transition:2s all;
     border: none;
     outline: none;
     transition: 2s;
-    border-top-left-radius: 20px; /* Applies radius to top left corner */
-    border-top-right-radius: 20px; /* Applies radius to top right corner */
-    /* Removed the general border-radius to apply top radius only */
+    border-radius: 20px;
+  
+
 }
 
 .Enroll-button:hover{
