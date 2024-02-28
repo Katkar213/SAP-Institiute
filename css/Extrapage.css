@@ -86,20 +86,22 @@ transition:2s all;
     /* border:2px solid black; */
     justify-content: space-between;
 }
-.Enroll-button{
+.Enroll-button {
     background-color: skyblue;
     margin-top: 20px;
     float: right;
-    padding:12px 20px;
-    color:white;
+    padding: 12px 20px;
+    color: white;
     font-size: 19px;
     font-weight: bold;
-    border:none;
+    border: none;
     outline: none;
-    transition:2s;
-    border-radius: 20px;
-   
+    transition: 2s;
+    border-top-left-radius: 20px; /* Applies radius to top left corner */
+    border-top-right-radius: 20px; /* Applies radius to top right corner */
+    /* Removed the general border-radius to apply top radius only */
 }
+
 .Enroll-button:hover{
     box-shadow: 20px;
 
