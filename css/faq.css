@@ -43,6 +43,7 @@ margin-top: 20px !important;
     /* display:none; */
     background-color: rgba(211, 211, 211, 0.248) !important;
     color:black;
+    transition:0.5s;
 }
 .hide{
     display:none;
