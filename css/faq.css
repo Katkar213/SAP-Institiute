@@ -50,6 +50,7 @@ margin-top: 20px !important;
   
   .answer {
     background-color: rgba(211, 211, 211, 0.248) !important;
+<<<<<<< HEAD
     color: black;
     max-height: 0; 
     overflow: hidden;
@@ -60,6 +61,13 @@ margin-top: 20px !important;
   
   .answer.show {
     max-height: 200px;
+=======
+    color:black;
+    transition:0.5s;
+}
+.hide{
+    display:none;
+>>>>>>> 37c02dc7d095493857deb3b6ca28f4f21fb7d5a2
     text-align: left !important;
     padding-top: 20px;
     padding: 0px 10px;

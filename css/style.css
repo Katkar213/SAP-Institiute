@@ -7657,6 +7657,16 @@ h1, h2, h3, h4, h5,
     background: #167ce9;
     border: 1px solid #167ce9;
     color: #fff; }
+.center-button{
+    
+      display: block; 
+      margin: 0 auto; 
+      text-align: center; 
+      width: fit-content; 
+  }
+  .button-center{
+    text-align: center;
+  }
     .btn.btn-primary:hover {
       border: 1px solid #167ce9;
       background: transparent !important;
