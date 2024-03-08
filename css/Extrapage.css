@@ -18,8 +18,8 @@ body{
     font-size: 52px !important;
 }
 .course-title h5{
-    text-align: left !important;
-    padding-left: 20vw;
+    text-align: center !important;
+    padding-left: 1vw;
     color:yellow;
 }
 .course-description-parent{
